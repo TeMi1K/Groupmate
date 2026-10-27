@@ -41,4 +41,4 @@ dotnet test
 
 ## Demonstrācijas video
 
-<saite uz video>
+https://drive.google.com/file/d/1xs6zTSd_ylEluTGNTZXpVyPYYyyycN38/view?usp=sharing
